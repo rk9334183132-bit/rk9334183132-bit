@@ -1,13 +1,13 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rakesh%20Kumar&fontSize=60&fontColor=c792ea&fontAlignY=38&desc=Digital%20Systems%20%26%20RTL%20Design%20Engineer%20%E2%80%A2%20EE%20%40%20NIT%20Rourkela&descSize=16&descAlignY=60&descColor=a9b1d6)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rakesh%20Kumar&fontSize=60&fontColor=c792ea&fontAlignY=38&desc=Digital%20Systems%20%26%20RTL%20Design%20Engineer%20%E2%80%A2%20EE%20%40%20NIT%20Rourkela&descSize=16&descAlignY=60&descColor=a9b1d6" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=RTL+Design+%7C+FPGA+%7C+VLSI+Systems;Verilog+%7C+SystemVerilog+%7C+UART+%7C+SPI+%7C+AXI;Logic+Verification+%26+Testbench+Design;Building+synthesizable+digital+hardware+🔌)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=RTL+Design+%7C+FPGA+%7C+VLSI+Systems;Verilog+%7C+SystemVerilog+%7C+UART+%7C+SPI+%7C+AXI;Logic+Verification+%26+Testbench+Design;Building+synthesizable+digital+hardware+%F0%9F%94%8C)](https://git.io/typing-svg)
 
 <p>
   <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABORATE-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/📍%20LOCATION-ROURKELA,%20INDIA-7aa2f7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🎯%20FOCUS-DIGITAL%20SYSTEMS%20%26%20VLSI-c792ea?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20LOCATION-ROURKELA,%20INDIA-7aa2f7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%F0%9F%8E%AF%20FOCUS-DIGITAL%20SYSTEMS%20%26%20VLSI-c792ea?style=for-the-badge" />
 </p>
 
 </div>
@@ -83,7 +83,7 @@ me.say_hi()
 
 ---
 
-### 📊 Skill Proficiency
+### 🎯 Skill Proficiency
 
 | Domain | Proficiency |
 | :--- | :--- |
@@ -170,7 +170,7 @@ me.say_hi()
     <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -178,4 +178,4 @@ me.say_hi()
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
