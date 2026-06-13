@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/rk9334183132-bit">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=C792EA&center=true&vCenter=true&width=800&height=100&lines=Rakesh+Kumar" alt="Rakesh Kumar" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rakesh%20Kumar&fontSize=65&fontColor=c792ea&fontAlignY=42&desc=Digital%20Systems%20%26%20RTL%20Design%20Engineer%20%E2%80%A2%20EE%20%40%20NIT%20Rourkela&descSize=17&descAlignY=62&descColor=a9b1d6" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=RTL+Design+%7C+FPGA+%7C+VLSI+Systems;Verilog+%7C+SystemVerilog+%7C+UART+%7C+SPI+%7C+AXI;Logic+Verification+%26+Testbench+Design;Building+synthesizable+digital+hardware+%F0%9F%94%8C" alt="Typing SVG" />
 
@@ -17,8 +15,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
-
----
 
 ## `whoami`
 
@@ -89,8 +85,6 @@ me.say_hi()
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ---
 
 ### 🎯 Skill Proficiency
@@ -101,6 +95,8 @@ me.say_hi()
 | Logic Verification & Testbench Design | `███████████████████████░░` 85% |
 | Protocol Compliance (UART, SPI, AXI) | `████████████████████████░` 90% |
 | Web Application Development (Flask) | `████████████████████░░░░░` 80% |
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
@@ -198,3 +194,5 @@ me.say_hi()
 <img src="https://komarev.com/ghpvc/?username=rk9334183132-bit&label=PROFILE+VIEWS&color=7aa2f7&style=flat-square" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
