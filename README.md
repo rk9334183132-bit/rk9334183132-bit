@@ -5,6 +5,7 @@
 
 ## <p align="center">Digital Logic, Hardware Description Languages & Web Architecture</p>
 
+<!-- Status Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABORATE-brightgreen?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/LOCATION-ROURKELA,%20INDIA-blue?style=for-the-badge" alt="Location">
@@ -23,6 +24,8 @@ class DigitalSystemsEngineer:
         self.degree = "B.Tech in Electrical Engineering"
         self.core_domain = "RTL Design, Logic Verification & VLSI Systems"
         self.languages = ["Verilog", "SystemVerilog", "C", "Python"]
+```
+
 ---
 
 ### `cat skills`
