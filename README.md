@@ -1,14 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rakesh%20Kumar&fontSize=60&fontColor=c792ea&fontAlignY=38&desc=Digital%20Systems%20%26%20RTL%20Design%20Engineer%20%E2%80%A2%20EE%20%40%20NIT%20Rourkela&descSize=16&descAlignY=60&descColor=a9b1d6" />
+<a href="https://github.com/rk9334183132-bit">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=C792EA&center=true&vCenter=true&width=800&height=100&lines=Rakesh+Kumar" alt="Rakesh Kumar" />
+</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=RTL+Design+%7C+FPGA+%7C+VLSI+Systems;Verilog+%7C+SystemVerilog+%7C+UART+%7C+SPI+%7C+AXI;Logic+Verification+%26+Testbench+Design;Building+synthesizable+digital+hardware+%F0%9F%94%8C)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=RTL+Design+%7C+FPGA+%7C+VLSI+Systems;Verilog+%7C+SystemVerilog+%7C+UART+%7C+SPI+%7C+AXI;Logic+Verification+%26+Testbench+Design;Building+synthesizable+digital+hardware+%F0%9F%94%8C" alt="Typing SVG" />
+
+<br/>
 
 <p>
   <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABORATE-brightgreen?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/%F0%9F%93%8D%20LOCATION-ROURKELA,%20INDIA-7aa2f7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/%F0%9F%8E%AF%20FOCUS-DIGITAL%20SYSTEMS%20%26%20VLSI-c792ea?style=for-the-badge" />
 </p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
@@ -35,6 +41,8 @@ class DigitalSystemsEngineer:
 me = DigitalSystemsEngineer()
 me.say_hi()
 ```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
@@ -80,6 +88,8 @@ me.say_hi()
 </p>
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
@@ -133,6 +143,8 @@ me.say_hi()
 </tr>
 </table>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ---
 
 ## 📜 Certifications & Achievements
@@ -151,11 +163,17 @@ me.say_hi()
 <img src="https://github-readme-stats.vercel.app/api?username=rk9334183132-bit&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=c792ea&text_color=a9b1d6" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rk9334183132-bit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&text_color=a9b1d6" width="48%" />
 
+<br/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com?user=rk9334183132-bit&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=c792ea&currStreakLabel=a9b1d6" width="60%" />
+
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rk9334183132-bit&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7aa2f7&line=c792ea&point=7aa2f7" width="98%" />
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
@@ -165,17 +183,18 @@ me.say_hi()
 
 **Let's connect and build something incredible ✨**
 
-<p>
-  <a href="https://linkedin.com/in/rakesh-kumar-b57127220">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br/>
+
+<a href="https://linkedin.com/in/rakesh-kumar-b57127220">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:your.email@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=rk9334183132-bit&label=PROFILE+VIEWS&color=7aa2f7&style=flat-square" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
